@@ -18,7 +18,7 @@ I'm a student in Computer Science and Statistics at the University of North Caro
 - Sports Analytics  
 - Philosophy of AI & Agency  
 
-### 📫 Reach Me
+### Reach Me
 - LinkedIn: [linkedin.com/in/pranavturlapati](https://linkedin.com/in/pranavturlapati)
 - Portfolio: [pranavturlapati28.github.io/Pranav-](https://pranavturlapati28.github.io/Pranav-)
 - GitHub: [@pranavturlapati28](https://github.com/pranavturlapati28)
