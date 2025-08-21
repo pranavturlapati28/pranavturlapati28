@@ -1,4 +1,4 @@
-## 👋 Hey there, I'm Pranav Turlapati
+## Hey there, I'm Pranav Turlapati
 
 I'm a student in Computer Science and Statistics at the University of North Carolina at Chapel Hill. I am passionate about building new intelligent systems that blend data, design, and impact.
 
